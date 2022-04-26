@@ -1,2 +1,3 @@
-/lib
-/src
+lib/*
+target/*
+*authenticate.h
